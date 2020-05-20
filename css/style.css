@@ -52,7 +52,7 @@ label{
     padding: 2em 2.5em;
 }
 .banner {
-    background: url(../images/banner.jpg) no-repeat 0px 0px;
+    background: url(../images/men.png) no-repeat 0px 0px;
     background: #76635f;
     background-size: cover;
     -webkit-background-size: cover;
@@ -128,6 +128,7 @@ p.banner-p-w3ls {
 .w3_agileits_social_media {
     text-align: center;
     position: absolute;
+    z-index: 4;
     left: 2em;
     top: 18em;
 }
